@@ -1,0 +1,13 @@
+.git
+.gitignore
+backend/__pycache__
+backend/.env
+backend/credentials.json
+backend/venv
+frontend/node_modules
+frontend/dist
+node_modules
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
